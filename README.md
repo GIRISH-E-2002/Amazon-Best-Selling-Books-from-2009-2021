@@ -1,6 +1,6 @@
 # Amazon Best Selling Books Analysis with Python
 
-I web-scrapped Amazing Best Selling Books in this project from 2009 to 2019.
+I web-scrapped Amazing Best Selling Books in this project from 2009 to 2021.
 
 In this project, I will be presenting insights derived from the analysis performed on the Amazon best-selling books data.
 
