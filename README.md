@@ -39,7 +39,7 @@ The scrapped data contains the following columns:
 
 # Summary of Findings
 
- - Between 2009 and 2019, Amazon had more Non-Fiction books on the best sellers list than Fiction books. There was a total of  (345) 54.16% Non-Fiction books and (292) 45.58% Fiction books.
+ - Between 2009 and 2021, Amazon had more Non-Fiction books on the best sellers list than Fiction books. There was a total of  (345) 54.16% Non-Fiction books and (292) 45.58% Fiction books.
 
  - 2019 had the highest number of best-selling books which were Non-Fiction while 2009 had more Fiction books that were best sellers.
 
@@ -47,7 +47,7 @@ The scrapped data contains the following columns:
 
  - There is no relationship between price and reviews.
 
- - Between 2009 and 2019, Fiction books had more reviews than Non-Fiction books
+ - Between 2009 and 2021, Fiction books had more reviews than Non-Fiction books
 
  - The average price of books started decreasing in 2014, increased in 2018, and then reduced again in 2019. 
 
